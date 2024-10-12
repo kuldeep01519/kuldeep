@@ -1,4 +1,9 @@
-
+.ama{
+    text-align:"center";
+    cursor:pointer;
+    hight:50px;
+    width:920px;
+}
 .box{
     height: 50px;
     width: 920px;
