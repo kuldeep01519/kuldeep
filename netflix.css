@@ -1,0 +1,124 @@
+body{
+  background-color: black;
+}
+.lo{
+    hight:100px;
+    width: 950px;
+    background-color: black;
+    display:flex;
+}
+.k{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    margin-left: 590px;
+    margin-top: 20px;
+    width: 100px;
+    margin-bottom: 30px;
+}
+.f{
+    background-color: #f54242;
+    color:white;
+    margin-left: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.hj{
+    opacity:0.7;
+    height: 420px;
+    width: 950px;
+    background-image: url("net\ big\ imagr.jpg");
+    clip-path: (25% 0%,100% 0%,100% 100%,0% 100%); 
+}
+#j{
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgba(255, 255, 255, 0.922);
+    padding-top: 30pxpx;
+}
+#opp{
+    color:white;
+    font-weight: bolder;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 5px solid #c0c0c0;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.oi{
+    margin-top: 100px;
+    height: 300px;
+    width: 300px;
+    margin-left: 320px;
+}
+#b{
+    color: white;
+}
+#red{
+    width:100px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    height: 20px;
+}
+.er{
+    width:280px;
+    height:35px;
+    background-color: black transparent;
+    color:black;
+}
+.fop{
+    height: 350px;
+    width: 920px;
+    background-color: black;
+    display: flex;
+    float: left;
+    margin-top: 10px;
+}
+.wer{
+    height: 250px;
+    width: 150px;
+    background-size: 100% 100%;
+    background-image: url("animal.jfif");
+    padding: 15px;
+    margin: 20px;
+    margin-top: 55px;
+}
+.lop{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+.pop{
+    height: 250px;
+    width: 150px;
+    background-size: 100% 100%;
+    background-image: url("ic814.jfif");
+    padding: 15px;
+    margin: 20px;
+    margin-top: 55px;
+}
+.gif{
+    height: 250px;
+    width: 150px;
+    background-size: 100% 100%;
+    background-image: url("kalki.jfif");
+    padding: 15px;
+    margin: 20px;
+    margin-top: 55px;
+}
+.rew{
+    height: 250px;
+    width: 150px;
+    background-size: 100% 100%;
+    background-image: url("indian2.jfif");
+    padding: 15px;
+    margin: 20px;
+    margin-top: 55px;
+}
