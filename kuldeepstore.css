@@ -1,7 +1,7 @@
 
 .box{
     height: 50px;
-    width: 985px;
+    width: 100%;
     color: gold;
     background-color: black;
     font-size: 20px;
@@ -16,7 +16,7 @@
 }
 .you{
     height: 270px;
-    width: 890px;
+    width: 100%;
     color:black;
     border: 1px solid black;
     font-size: 20px;
@@ -57,6 +57,7 @@
     cursor: pointer;
     box-shadow: 0 15px 30px rgba(0,0,0,0.30), 0 11px 8px rgba(0,0,0,0.20);
     transition-duration: 7s;
+    margin:40px;
 }
 #d{
     font-size: 12px;
@@ -83,7 +84,7 @@
     text-align: center;
     padding-top: 20px;
     height:40px;
-    width: 920px;
+    width:100%;
     cursor: pointer;
     margin-top: 5px;
 }
@@ -95,7 +96,7 @@
 }
 .er{
     height: 260px;
-    width: 920px;
+    width:100%;
     background-color: #333;
     display:flex;
     float: left;
@@ -110,6 +111,7 @@
     padding-left: 10px;
     padding-top: 25px;
     cursor: pointer;
+    margin:40px;
 }
 #hy{
     color:white;
@@ -131,9 +133,9 @@
 }
 .hop{
     height: 60px;
-    width:920px;
+    width:100%;
     text-align: center;
-    padding-top:none;
+    padding-top:20px;
     color: white;
     font-size: 14px;
     background-color: black;
@@ -141,7 +143,7 @@
 }
 .ol{
     height: 200px;
-    width: 930px;
+    width: 100%;
     padding: 0;
     margin: 0;
     background-image: url("sonata.jpg");
